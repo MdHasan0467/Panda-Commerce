@@ -8,3 +8,22 @@
 .color{
   color: #FF136F;
 }
+.fa-brands{
+  font-size: 30px;
+  margin-left: 1rem;
+}
+.fa-facebook:hover{
+  color: blue;
+}
+.fa-facebook-messenger:hover{
+  color: rgb(255, 0, 221);
+}
+.fa-youtube:hover{
+  color: rgb(255, 0, 0);
+}
+.fa-linkedin:hover{
+  color: rgb(32, 134, 196);
+}
+.fa-twitter:hover{
+  color: rgb(0, 205, 251);
+}
