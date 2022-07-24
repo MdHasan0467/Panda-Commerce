@@ -27,3 +27,18 @@
 .fa-twitter:hover{
   color: rgb(0, 205, 251);
 }
+
+
+.fa-arrow-right{
+  position: relative;
+  animation: moveit 2s linear 0s infinite alternate;
+}
+@keyframes moveit {
+  from {
+    left: 0;
+  }
+
+  to {
+    left: 25%;
+  }
+}
